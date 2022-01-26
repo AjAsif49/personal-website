@@ -1,15 +1,46 @@
 body{
+    
     font-family: 'Poppins', sans-serif;
-    margin: 0px;
+    margin: 50px;
     
 }
 
 
+.header{
+    position: fixed;
+    width: 100%;
+    background-color: deeppink;
+    background-image: linear-gradient(45deg, crimson, deeppink);
+    height: 50px;
+    font-size: large;
+    font-family:cursive;
+    color: white;
+    font-weight: 1000;
+    padding-left: 2%;
+    float: left;
+    padding-top: 1%;
+    text-align:left;
+}
+
+.navbar{
+    background-color: deeppink;
+    color: white;
+    margin-left: 20px;
+    
+}
+
+
+#logo{
+    text-align: center;
+    font-family:cursive;
+    color: white;
+    
+}
 h1{
     font-size: 40px;
 }
 
-h2{
+.name{
     
 
     font-size: 50px;

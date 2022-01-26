@@ -22,6 +22,12 @@ body{
     text-align:left;
 }
 
+.navbar{
+    background-color: deeppink;
+    color: white;
+    margin-left: 20px;
+    
+}
 
 
 #logo{
